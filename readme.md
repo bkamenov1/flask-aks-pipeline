@@ -22,13 +22,13 @@ The `azure-pipelines.yml` automates:
 
 ## Monitoring with Azure Monitor
 
-This project integrates Azure Monitor to provide observability into the AKS cluster.
+This project integrates Azure Monitor to provide observability into the AKS cluster:
 
-🔧 What’s Included
 Log Analytics Workspace for collecting logs and metrics
 
 AKS diagnostic settings to send logs to Log Analytics
 
 Bicep template to automate provisioning
+
 ## Author
 Boyan Kamenov
