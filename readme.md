@@ -20,7 +20,8 @@ The `azure-pipelines.yml` automates:
 - Pushing it to ACR
 - Deploying to AKS
 
-🩺 Monitoring with Azure Monitor
+## Monitoring with Azure Monitor
+
 This project integrates Azure Monitor to provide observability into the AKS cluster.
 
 🔧 What’s Included
